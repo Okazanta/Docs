@@ -1,5 +1,17 @@
-# Docs
+# Okazanta documentation
 
-Well there aren't any docs just yet, but there will be...
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-Come back later and see. 
+### Installation
+
+```
+$ npm install
+```
+
+### Local Development
+
+```
+$ npm run start
+```
+
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
